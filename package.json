@@ -1,16 +1,24 @@
 {
   "dependencies": {
-    "node-sass": "^9.0.0"
+    "node-sass": "^9.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
+  "browserslist":[
+    "last 2 chrome version"
+  ],
   "name": "hey_react",
   "version": "1.0.0",
   "description": "this is hey react by sunny",
   "main": "App.js",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index_react.html",
+    "build": "parcel build index_react.html"
   },
   "repository": {
     "type": "git",
