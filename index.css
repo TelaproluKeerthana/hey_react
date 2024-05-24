@@ -44,3 +44,25 @@
 .res-logo{
     width: 100%;
 }
+
+.filter-btn{
+    margin: 10px;
+}
+
+.filter-btn:hover{
+ cursor: pointer;
+}
+.shimmer-container{
+    flex-wrap: wrap;
+    display: flex;
+}
+.shimmer-card{
+    width: 200px;
+    height: 400px;
+    margin: 20px;
+    background-color: gray;
+}
+
+.filter{
+    display: flex;
+}

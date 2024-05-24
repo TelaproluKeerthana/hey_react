@@ -1,0 +1,2 @@
+export const LOGO_URL="https://dw0i2gv3d32l1.cloudfront.net/uploads/stage/stage_image/68218/optimized_product_thumb_stage.jpg"
+const Rest_URL="https://st.depositphotos.com/3147737/4982/i/950/depositphotos_49826787-stock-photo-hyderabadi-biryani-a-popular-chicken.jpg"
